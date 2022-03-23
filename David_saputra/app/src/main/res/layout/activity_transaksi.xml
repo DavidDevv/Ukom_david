@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    tools:context=".transaksi">
+    <TextView
+        android:id="@+id/judultrans"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="PILIH MENU ANDA"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="@color/teal_700"
+        android:textSize="30sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+
+    <EditText
+        android:id="@+id/namapembeli"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_baseline_person_24"
+        android:hint="MASUKAN NAMA"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/edittextxstyle">
+
+    </EditText>
+    <EditText
+        android:id="@+id/jumlahbeli"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="JUMLAH BELI"
+        android:drawableLeft="@drawable/ic_baseline_add_shopping_cart_24"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edittextxstyle">
+
+    </EditText>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/white"
+        android:gravity="center_horizontal"
+        android:text="JENIS KERIPIK"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:background="@color/teal_700">
+
+    </TextView>
+
+
+
+
+    <CheckBox
+        android:id="@+id/cekdaunubi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Keripik Daun Ubi"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/colorPrimaryDark">
+    </CheckBox>
+    <CheckBox
+        android:id="@+id/cekbayam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bayam"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/colorPrimaryDark">
+    </CheckBox>
+    <CheckBox
+        android:id="@+id/cekdaunmelinjo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Keripik Daun Melinjo"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/colorPrimaryDark">
+    </CheckBox>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RASA KERIPIK"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:background="@color/teal_700"
+        android:gravity="center_horizontal"
+        android:textColor="@color/white">
+
+    </TextView>
+    <RadioGroup
+        android:id="@+id/pilihan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdmanis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MANIS"
+            android:textSize="20sp"
+            android:textStyle="bold">
+        </RadioButton>
+        <RadioButton
+            android:id="@+id/rdasin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ASIN"
+            android:textSize="20sp"
+            android:textStyle="bold">
+        </RadioButton>
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/totalharga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TOTAL HARGA"
+        android:textSize="20sp"></TextView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/hitung"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/buttonstyle"
+            android:text="HITUNG"></Button>
+
+        <Button
+            android:id="@+id/btnbayarkirim"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_toRightOf="@+id/hitung"
+            android:background="@drawable/buttonstyle"
+            android:text="BAYAR"></Button>
+    </RelativeLayout>
+
+
+</LinearLayout>

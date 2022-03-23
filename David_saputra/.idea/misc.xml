@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/David_saputra/app/src/main/res/drawable-v24/edittextxstyle.xml" value="0.35208333333333336" />
+        <entry key="..\:/David_saputra/app/src/main/res/drawable/edittextxstyle.xml" value="0.35208333333333336" />
+        <entry key="..\:/David_saputra/app/src/main/res/layout/activity_datakeripik.xml" value="0.33177083333333335" />
+        <entry key="..\:/David_saputra/app/src/main/res/layout/activity_datapenjualan.xml" value="0.20416666666666666" />
+        <entry key="..\:/David_saputra/app/src/main/res/layout/activity_homepage.xml" value="0.33177083333333335" />
+        <entry key="..\:/David_saputra/app/src/main/res/layout/activity_inputkeripik.xml" value="0.33177083333333335" />
+        <entry key="..\:/David_saputra/app/src/main/res/layout/activity_lihatbarang.xml" value="0.33177083333333335" />
+        <entry key="..\:/David_saputra/app/src/main/res/layout/activity_lisitembarang.xml" value="0.33177083333333335" />
+        <entry key="..\:/David_saputra/app/src/main/res/layout/activity_login.xml" value="0.2152027027027027" />
+        <entry key="..\:/David_saputra/app/src/main/res/layout/activity_main.xml" value="0.33177083333333335" />
+        <entry key="..\:/David_saputra/app/src/main/res/layout/activity_transaksi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.35625" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/drawable/buttonstyle.xml" value="0.35625" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/drawable/edittextxstyle.xml" value="0.35625" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.35625" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.35625" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.35625" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.35625" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/drawable/ic_baseline_restaurant_menu_24.xml" value="0.35625" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.35625" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/drawable/ic_launcher_background.xml" value="0.35625" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_datakeripik.xml" value="0.3359375" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_datapenjualan.xml" value="0.3359375" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_homepage.xml" value="0.2851851851851852" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_inputkeripik.xml" value="0.3359375" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_lihatbarang.xml" value="0.3359375" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_lisitembarang.xml" value="0.3359375" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_menudanjeniskeripik.xml" value="0.3359375" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_tampiltransaksi.xml" value="0.3359375" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/layout/activity_transaksi.xml" value="0.3359375" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/menu/listmenu.xml" value="0.3359375" />
+        <entry key="..\:/Ukk_Android/12_Rpl1/David_saputra/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.35625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
